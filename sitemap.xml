@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://sitemaps.org">
   <url>
-    <loc>https://vetveritas.com.br/</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://diamantepet.com.br</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/blog.html</loc>
-    <lastmod>2026-11-22</lastmod>
+    <loc>https://diamantepet.com.brblog.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-cinomose.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://diamantepet.com.brartigo-cardiopatia.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-felinos-renal.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://diamantepet.com.brartigo-carrapato.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-parvovirose.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://diamantepet.com.brartigo-checkup.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-carrapato.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://diamantepet.com.brartigo-cinomose.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-intoxicacao.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://diamantepet.com.brartigo-felinos-renal.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-checkup.html</loc>
-    <lastmod>2026-11-21</lastmod>
+    <loc>https://diamantepet.com.brartigo-intoxicacao.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-leishmaniose.html</loc>
-    <lastmod>2026-11-22</lastmod>
+    <loc>https://diamantepet.com.brartigo-leishmaniose.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-cardiopatia.html</loc>
-    <lastmod>2026-11-22</lastmod>
+    <loc>https://diamantepet.com.brartigo-otite-alergia.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-tumores-nodulos.html</loc>
-    <lastmod>2026-11-22</lastmod>
+    <loc>https://diamantepet.com.brartigo-parvovirose.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vetveritas.com.br/artigo-otite-alergia.html</loc>
-    <lastmod>2026-11-22</lastmod>
+    <loc>https://diamantepet.com.brartigo-tumores-nodulos.html</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
